@@ -12,5 +12,3 @@ class Player
 
 end
 
-bob = Player.new('Bob')
-puts bob.get_name
